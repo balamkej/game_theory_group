@@ -1,0 +1,6 @@
+Course Link:
+
+https://gscontras.github.io/probLang/
+
+
+For us, everything up to chapter 4 is immediately interesting, especially chapter 4 itself, which has a toy example of resolving scope ambiguities
