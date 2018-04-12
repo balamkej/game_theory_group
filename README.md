@@ -10,3 +10,10 @@ For us, everything up to chapter 4 is immediately interesting, especially chapte
 
 Link to repo with Luke's paper on GT scope: [https://github.com/LukeSmithxyz/scope-without-syntax](http://github.com/LukeSmithxyz/scope-without-syntax).
 
+## Key for `sentences.csv`
+
+### cons (constructions)
+
++ `main` -- main clauses
++ `rf` -- rigid or flexible. 0 for rigid, 1 for flexible.
++ `q1`/`q2` -- The first or second (linear) quantifier. Code as the actual word. We can do coding for universal or existentials later.
